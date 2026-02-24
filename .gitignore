@@ -1,0 +1,17 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Logs
+*.log
+.DS_Store
+
+# Objetos grandes
+*.rds
+*.qs
+
+# Se quiser evitar subir todos CSVs grandes:
+# data/**/*.csv
