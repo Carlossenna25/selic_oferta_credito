@@ -1,4 +1,4 @@
-# CanalCreditoSelicIFdata
+# Bank Lending Channel
 Painel de instituições financeiras (IF.data/BCB) para estimar o efeito de choques na Selic sobre o crescimento do crédito com heterogeneidade por capitalização, funding, risco e tamanho (TWFE + efeitos marginais).
 
 ---
